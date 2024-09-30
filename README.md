@@ -22,4 +22,4 @@ sekian dari laporan saya mengenai progam ini terimakasih.
 
 
 --------------------------Flow chart-----------------------------------------
-![flowchart program hitung gaji satria drawio](https://github.com/user-attachments/assets/c658fa9f-cb23-4201-b9b5-0e81d4727c54)
+![gg drawio](https://github.com/user-attachments/assets/8011c581-aec8-49a0-a046-6191e88588bc)
