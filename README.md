@@ -17,8 +17,9 @@ sekian dari laporan saya mengenai progam ini terimakasih.
 
 --------------------------ScreenShot Output Program-----------------------
 ![Screenshot 2024-09-30 193939](https://github.com/user-attachments/assets/8359f3c7-4ce9-4542-bdb7-c4e5dff3ad79)
-![Screenshot 2024-09-30 193800](https://github.com/user-attachments/assets/5e3c4087-4813-4bcb-bdc8-102385091af2)
 ![Screenshot 2024-09-30 193728](https://github.com/user-attachments/assets/d88b8ef0-5249-4aab-8d2b-b769446e6e3c)
+![Screenshot 2024-09-30 193800](https://github.com/user-attachments/assets/5e3c4087-4813-4bcb-bdc8-102385091af2)
+
 
 
 --------------------------Flow chart-----------------------------------------
