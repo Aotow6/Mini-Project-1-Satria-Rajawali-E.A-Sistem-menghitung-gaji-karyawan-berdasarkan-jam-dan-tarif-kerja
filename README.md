@@ -1,0 +1,16 @@
+Disini saya akan menjelaskan program saya 
+untuk baris 1 - 2 saya membuat dan memberi nilai variable yang akan digunakan untuk login atau kek bikin akun gitu
+di baris 3 ada variable session yang akan di gunakan untuk mengkondisikan looping while dan untuk di baris 3 ini saya set value nya "off"
+
+di baris 5-13  ada looping while nah karena dimana jika variable session bernilai "off" maka kita akan disuru mengisi input untuk login yaitu 
+input nama dan nim lalu kalau benar maka nilai variable session akan berubah menjadi "on" dan kita bisa memakai fitur untuk menghitung gaji tetapi jika salah maka kita looping lagi ke input nama dan nim dan nilai dalam var session tidak berubah 
+
+di baris 15-25 nah karena var session kita udah "on" karena kita sudah login kita bisa mulai menghitung gaji dengan menginput tarif kerja dan jam kerja dan disini saya udah pasang security agar hanya menerima inputan berupa angka dan bilangan positif
+dan jika kita tidak menepati maka kita akan disuru mengisi ulang atau looping untuk meng input lagi 
+
+baris 27-37 nah disini kita akan mengeluaran output gaji berdasarkan tarif dan jam kerja yang di input pada bari 5-13 dan disini ada deklarasi variable total_gaji yaitu tarif kerja X jam kerja untuk menghitung gaji dari karyawan  nah terus di lanjut dengan perkondisian
+if dan else. jadi if jam_kerja sama atau leboh dari 160 jam maka karyawan akan menerima bonus sebesar 10% dari total gaji nya dan else nya ya berati kayawan tidak menerima bonus karna jam kerja dibawah 160
+
+39-44 disini merupakan bagian terakhir yaitu bagian opsi jika kita ingin menghitung gaji lagi atau mengsudahi. jika kita input "y" maka kita akan bisa menghitung gaji lagi langsung ke input tidak perlu login dan jika input "n"  maka program akan berakhir karena baris break yang menghentikan/keluar dari looping 
+
+sekian dari laporan saya mengenai progam ini terimakasih.
