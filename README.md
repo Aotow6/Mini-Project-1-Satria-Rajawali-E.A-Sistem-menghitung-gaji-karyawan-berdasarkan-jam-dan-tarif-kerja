@@ -1,8 +1,8 @@
 Disini saya akan menjelaskan program saya :
 
-usn_benar = "satria"
-nim_benar = "067"
-session = "off"  
+  usn_benar = "satria"
+  nim_benar = "067"
+  session = "off"  
 
   
 untuk baris 1 - 2 saya membuat dan memberi nilai variable yang akan digunakan untuk login atau kek bikin akun gitu
@@ -10,7 +10,7 @@ di baris 3 ada variable session yang akan di gunakan untuk mengkondisikan loopin
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-while session == "off":
+  while session == "off":
     print("------- Login --------")
     usn = input("Masukkan nama anda: ")
     nim = input("Masukkan NIM anda: ")
@@ -26,7 +26,7 @@ input nama dan nim lalu kalau benar maka nilai variable session akan berubah men
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-while session == "in":
+  while session == "in":
     try:
         print("------- Input Data --------")
         tarif_kerja = int(input("Masukkan gaji per jam (Rp): "))
