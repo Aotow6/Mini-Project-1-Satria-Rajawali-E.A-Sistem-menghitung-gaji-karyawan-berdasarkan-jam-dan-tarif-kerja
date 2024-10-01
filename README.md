@@ -25,6 +25,7 @@ ________________________________________________________________________________
         
 di baris 5-13  ada looping while nah karena dimana jika variable session bernilai "off" maka kita akan disuru mengisi input untuk login yaitu 
 input nama dan nim lalu kalau benar maka nilai variable session akan berubah menjadi "on" dan kita bisa memakai fitur untuk menghitung gaji tetapi jika salah maka kita looping lagi ke input nama dan nim dan nilai dalam var session tidak berubah 
+disini saya memakai "and" yang berarti kedua kondisi harus benar baru bisa lanjut
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 
 
